@@ -1,7 +1,5 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Hassan lakhal</h1>
-- 📫 How to reach me **lakehalhassan2120@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
