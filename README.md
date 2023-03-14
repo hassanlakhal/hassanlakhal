@@ -18,6 +18,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanlakhal&" alt="hassanlakhal" /></p>
 
 
-
-
 [![hlakhal-'s 42 stats](https://badge.mediaplus.ma/greenbinary/hlakhal-)](https://github.com/oakoudad/badge42)
