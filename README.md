@@ -1,126 +1,176 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ███████╗███████╗ █████╗ ███╗   ██╗
-██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗████╗  ██║
-███████║███████║███████╗███████╗███████║██╔██╗ ██║
-██╔══██║██╔══██║╚════██║╚════██║██╔══██║██║╚██╗██║
-██║  ██║██║  ██║███████║███████║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hassan%20Lakhal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%201337%20School%20(UM6P)&descSize=16&descAlignY=55"/>
 
-### `Software Developer` · `AI Engineer` · `1337 School (UM6P)`
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=hassanlakhal&color=00ff88&style=flat-square&label=PROFILE+VIEWS)](https://github.com/hassanlakhal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan-lakhal-38bbb3203)
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=x&logoColor=white)](https://twitter.com/@hassanl32916369)
-[![42 Stats](https://badge.mediaplus.ma/greenbinary/hlakhal-)](https://github.com/oakoudad/badge42)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+AI+systems+from+the+ground+up;From+bare-metal+C%2B%2B+to+RAG+pipelines;FastAPI+%2B+LangChain+%2B+Qdrant+%F0%9F%A4%96;Open+to+exciting+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan-lakhal-38bbb3203)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hlakhal.contact@gmail.com)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/@hassanl32916369)
+[![Profile Views](https://komarev.com/ghpvc/?username=hassanlakhal&style=for-the-badge&color=A78BFA&label=VISITORS)](https://github.com/hassanlakhal)
 
 </div>
 
----
+<br/>
 
-```python
-class Hassan:
-    def __init__(self):
-        self.name        = "Hassan Lakhal"
-        self.role        = ["Software Developer", "AI Engineer"]
-        self.school      = "1337 Coding School (UM6P) — est. 2022"
-        self.location    = "Morocco 🇲🇦"
-        self.email       = "hlakhal.contact@gmail.com"
-        self.languages   = ["Arabic (native)", "English", "French"]
+## 🧬 About Me
 
-    def currently_building(self):
-        return [
-            "🤖  AI-powered IT support platform  @ UM6P-DSI",
-            "🔍  RAG chatbot  (LangChain + Qdrant)",
-            "📄  OCR pipeline  →  structured Excel datasets",
-        ]
-```
+> *"I build from the ground up — bare-metal HTTP servers in C++, containerized microservices, and production-grade AI pipelines."*
 
----
+- 🎓 &nbsp; Studying **Software Engineering** at **1337 Coding School (UM6P)** — intensive peer-to-peer curriculum
+- 🔭 &nbsp; Currently building an **AI-powered IT support platform** at UM6P-DSI (FastAPI + React + RAG)
+- 🤖 &nbsp; Designed a **RAG chatbot** — LangChain orchestration over Qdrant vector store
+- 📄 &nbsp; Built a custom **OCR pipeline** that digitized 2 years of PDF archives into structured Excel data
+- 🌍 &nbsp; Based in **Morocco** — available for remote collaboration
+- 📬 &nbsp; Reach me at **hlakhal.contact@gmail.com** · **+212 777 597 626**
 
-## ⚡ Tech Stack
+<br/>
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Core Languages**
+### Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Frontend & Backend**
+### AI & Data
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Systems-A78BFA?style=flat-square)
+![OCR](https://img.shields.io/badge/OCR_Pipelines-F59E0B?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-**AI & Data**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-
-**DevOps & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
----
-
-## 🗂️ Selected Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| 🏓 **ft_transcendence** | Django · WebSockets · Docker | Real-time multiplayer Pong SPA — matchmaking engine, OAuth, live chat · **100+ concurrent users** |
-| 🌐 **Webserv** | C++ · Network Programming | HTTP/1.1 server from scratch · non-blocking I/O via `epoll` · **500+ simultaneous connections** |
-| 🐳 **Inception** | Docker · Nginx · MariaDB | Containerized LEMP stack · TLS/SSL reverse proxy · automated volume persistence |
-| 🔗 **Net Practice** | TCP/IP · Routing | Solved **50+ simulated topologies** — subnetting, routing tables, TCP/IP addressing |
-
----
+<br/>
 
 ## 💼 Experience
 
-```
-Jun 2025 – Dec 2025  │  Software Developer Intern @ UM6P - DSI
-─────────────────────────────────────────────────────────────────
-  ▸ Full-stack AI IT support platform  →  FastAPI + React
-  ▸ Custom OCR pipeline  →  digitized 2 years of PDF archives
-    (LB & Décharges)  →  structured Excel datasets via Celery
-  ▸ RAG chatbot  →  LangChain orchestration + Qdrant vector store
-    for context-aware IT support responses
-```
+<table>
+<tr>
+<td width="80" align="center">
 
----
+🏢
+
+</td>
+<td>
+
+**Software Developer Intern — UM6P · DSI**
+`Jun 2025 → Dec 2025`
+
+Full-stack AI platform for IT support. Engineered a **custom OCR pipeline** that digitized 2 years of unstructured PDF archives into Excel datasets using **Celery** for async processing. Built a **RAG chatbot** with LangChain + Qdrant that delivers context-aware answers against live support documentation.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Projects
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="240">
+
+### 🏓 ft_transcendence
+`Django · WebSockets · Docker`
+
+Real-time multiplayer Pong SPA with custom matchmaking, OAuth & live chat.
+**100+ concurrent users**
+
+</td>
+<td align="center" width="240">
+
+### 🌐 Webserv
+`C++ · Network Programming`
+
+HTTP/1.1 server from scratch with `epoll` non-blocking I/O.
+**500+ simultaneous connections**
+
+</td>
+<td align="center" width="240">
+
+### 🐳 Inception
+`Docker · Nginx · MariaDB`
+
+Containerized LEMP stack with TLS/SSL reverse proxy & automated volume persistence.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="240">
+
+### 🔗 Net Practice
+`TCP/IP · Routing`
+
+Solved **50+ simulated network topologies** — subnetting, routing tables, and TCP/IP addressing.
+
+</td>
+<td align="center" width="240">
+
+### 🤖 IT Support Chatbot
+`LangChain · Qdrant · FastAPI`
+
+Production RAG pipeline querying active support docs for accurate, context-aware IT resolutions.
+
+</td>
+<td align="center" width="240">
+
+### 📄 OCR Archive Pipeline
+`Python · Celery · Redis`
+
+Automated digitization of 2 years of historical PDF archives into structured datasets.
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassanlakhal&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassanlakhal&theme=tokyonight" height="165"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hassanlakhal&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanlakhal&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanlakhal&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanlakhal&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-
-📬 **hlakhal.contact@gmail.com** 
+[![hlakhal-'s 42 stats](https://badge.mediaplus.ma/greenbinary/hlakhal-)](https://github.com/oakoudad/badge42)
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
