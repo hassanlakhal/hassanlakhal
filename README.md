@@ -26,7 +26,7 @@
 - 🤖 &nbsp; Designed a **RAG chatbot** — LangChain orchestration over Qdrant vector store
 - 📄 &nbsp; Built a custom **OCR pipeline** that digitized 2 years of PDF archives into structured Excel data
 - 🌍 &nbsp; Based in **Morocco** — available for remote collaboration
-- 📬 &nbsp; Reach me at **hlakhal.contact@gmail.com** · **+212 777 597 626**
+- 📬 &nbsp; Reach me at **hlakhal.contact@gmail.com** ·
 
 <br/>
 
