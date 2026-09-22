@@ -167,7 +167,7 @@ Automated digitization of 2 years of historical PDF archives into structured dat
 
 <br/><br/>
 
-[![hlakhal-'s 42 stats](https://badge.mediaplus.ma/greenbinary/hlakhal-)](https://github.com/oakoudad/badge42)
+[![hlakhal-'s 42 stats](https://badge.mediaplus.ma/water/hlakhal-)](https://github.com/oakoudad/badge42)
 
 </div>
 
